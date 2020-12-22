@@ -20,7 +20,7 @@
     "nodemon"
   ],
   "author": "Oliver Yang",
-  "license": "MIT",
+  "license": "none",
   "devDependencies": {
     "@types/node": "^14.14.9",
     "@typescript-eslint/eslint-plugin": "^4.8.1",
